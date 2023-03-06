@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3A1C72A329B57D0300144AA5 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A1C72A229B57D0300144AA5 /* SecondView.swift */; };
 		3ACA489729B5790E00FECAFC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ACA489629B5790E00FECAFC /* AppDelegate.swift */; };
 		3ACA489929B5790E00FECAFC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ACA489829B5790E00FECAFC /* SceneDelegate.swift */; };
 		3ACA489B29B5790E00FECAFC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ACA489A29B5790E00FECAFC /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3A1C72A229B57D0300144AA5 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 		3ACA489329B5790E00FECAFC /* GitHubDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitHubDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3ACA489629B5790E00FECAFC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3ACA489829B5790E00FECAFC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				3ACA489629B5790E00FECAFC /* AppDelegate.swift */,
 				3ACA489829B5790E00FECAFC /* SceneDelegate.swift */,
 				3ACA489A29B5790E00FECAFC /* ViewController.swift */,
+				3A1C72A229B57D0300144AA5 /* SecondView.swift */,
 				3ACA489C29B5790E00FECAFC /* Main.storyboard */,
 				3ACA489F29B5791100FECAFC /* Assets.xcassets */,
 				3ACA48A129B5791100FECAFC /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				3ACA489B29B5790E00FECAFC /* ViewController.swift in Sources */,
 				3ACA489729B5790E00FECAFC /* AppDelegate.swift in Sources */,
+				3A1C72A329B57D0300144AA5 /* SecondView.swift in Sources */,
 				3ACA489929B5790E00FECAFC /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
